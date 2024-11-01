@@ -14,9 +14,9 @@ Our Delevery order website parts :
 At homepage i use sliding theme to make website more valueable and looks luxury.<br>
 I use HTML,CSS transtition for button and navbar to make looks better and smooth and i also use little bit javascript to make the background slides every 3second.
 
-<a href="https://ibb.co.com/NgvsT29"><img src="https://i.ibb.co.com/4wq71R8/home1.png" width="500px" alt="home1" border="0"></a>
+<a href="https://ibb.co.com/NgvsT29"><img src="https://i.ibb.co.com/4wq71R8/home1.png" alt="home1" border="0"></a>
 
-<a href="https://ibb.co.com/0hys4b0"><img src="https://i.ibb.co.com/RzTjrwX/home2.png" width="500px" alt="home2" border="0"></a>
+<a href="https://ibb.co.com/0hys4b0"><img src="https://i.ibb.co.com/RzTjrwX/home2.png" alt="home2" border="0"></a>
 
 <a href="https://ibb.co.com/sHpSbSK"><img src="https://i.ibb.co.com/SrDT5Tt/home3.png" alt="home3" border="0"></a>
 
@@ -34,7 +34,7 @@ This page we introduce to you guys about our coffeshop story, our philosophy , a
 
 <a href="https://ibb.co.com/SfGByvz"><img src="https://i.ibb.co.com/fDLHF0s/Screenshot-from-2024-10-31-22-28-08.png" alt="Screenshot-from-2024-10-31-22-28-08" border="0"></a>
 
-<li><b>Page 4 : Login </b><li>
+<li><b>Page 4 : Login </b></li>
 <br>
 Login section that we need our customers to create id if they want to start using our delevery order service, by creating id it helps us to manage our customers delevery address.
 
